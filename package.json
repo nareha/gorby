@@ -1,0 +1,11 @@
+{
+  "name": "gorby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nareha/gorby.git",
+  "author": "nareha <nareh.agazaryan@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
